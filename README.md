@@ -13,18 +13,22 @@
 
 > این مخزن یک مطالعه موردی دانشگاهی بر پایه یک وب‌سایت واقعی است. نقش‌های پیشنهادی، نیازمندی‌ها، بودجه، زمان‌بندی و معیارهای پذیرش، فرض‌های این تکلیف هستند؛ قرارداد، ساختار داخلی یا برنامه رسمی CloudAra محسوب نمی‌شوند. هیچ مصاحبه، جلسه، تأیید مشتری یا آزمون عملی سامانه در این مستندات ادعا نشده است.
 
-## شش فعالیت مرحله شروع پروژه
+## برد Kanban و شش فعالیت مرحله شروع پروژه
+
+[ورود به برد CloudAra — Project Initiation](https://github.com/users/the-maduss/projects/3/views/1)
+
+متن کامل هر شش فعالیت داخل Issueهای متصل به کارت‌های برد قرار دارد. پوشه docs حذف شده و محل اصلی مطالعه و پیگیری، همین کارت‌ها هستند.
 
 ترتیب و عنوان‌ها مطابق اسلاید «Phase 1: Project Initiation — 6 Key Activities» درس تنظیم شده‌اند.
 
-| شماره | فعالیت | سند |
+| شماره | فعالیت | کارت و متن کامل |
 |---|---|---|
-| ۱ | Initiation Team — تیم آغاز پروژه | [اعضا، نقش‌ها و ارزیابی اولیه](docs/01-initiation-team.md) |
-| ۲ | Customer Relationship — ارتباط با مشتری | [ذی‌نفعان و برنامه ارتباط](docs/02-customer-relationship.md) |
-| ۳ | Initiation Plan — برنامه آغاز پروژه | [فعالیت‌ها و جلسات اولیه](docs/03-initiation-plan.md) |
-| ۴ | Management Procedures — روش‌های مدیریت | [تقسیم کار، گزارش‌دهی و کنترل تغییر](docs/04-management-procedures.md) |
-| ۵ | Environment & Workbook — محیط و دفتر پروژه | [ابزارها و مخزن مستندات](docs/05-environment-workbook.md) |
-| ۶ | Project Charter — منشور پروژه | [اهداف، محدوده و مجوز آغاز](docs/06-project-charter.md) |
+| ۱ | Initiation Team — تیم آغاز پروژه | [اعضا، نقش‌ها و ارزیابی اولیه](https://github.com/the-maduss/CloudAra/issues/1) |
+| ۲ | Customer Relationship — ارتباط با مشتری | [ذی‌نفعان و برنامه ارتباط](https://github.com/the-maduss/CloudAra/issues/2) |
+| ۳ | Initiation Plan — برنامه آغاز پروژه | [فعالیت‌ها و جلسات اولیه](https://github.com/the-maduss/CloudAra/issues/3) |
+| ۴ | Management Procedures — روش‌های مدیریت | [تقسیم کار، گزارش‌دهی و کنترل تغییر](https://github.com/the-maduss/CloudAra/issues/4) |
+| ۵ | Environment & Workbook — محیط و دفتر پروژه | [ابزارها و مخزن مستندات](https://github.com/the-maduss/CloudAra/issues/5) |
+| ۶ | Project Charter — منشور پروژه | [اهداف، محدوده و مجوز آغاز](https://github.com/the-maduss/CloudAra/issues/6) |
 
 ## محدوده آموزشی نسخه اولیه
 
@@ -38,7 +42,7 @@
 
 ## راهنمای مطالعه
 
-ابتدا منشور پروژه را برای دید کلی بخوانید؛ سپس اسناد ۱ تا ۵، نحوه سازمان‌دهی و شروع کار را توضیح می‌دهند. این مرحله بر مستندسازی تمرکز دارد و کد اجرایی محصول در مخزن قرار نگرفته است.
+ابتدا کارت منشور پروژه را برای دید کلی بخوانید؛ سپس کارت‌های ۱ تا ۵، نحوه سازمان‌دهی و شروع کار را توضیح می‌دهند. این مرحله بر مستندسازی تمرکز دارد و کد اجرایی محصول در مخزن قرار نگرفته است.
 
 ## منابع و مبنای تدوین
 
